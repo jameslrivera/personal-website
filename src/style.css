@@ -1,3 +1,9 @@
 html {
     background-color: antiquewhite;
 }
+
+* {
+    font-family: "Chakra Petch";
+    color: #31304D;
+    text-align: center;
+}
