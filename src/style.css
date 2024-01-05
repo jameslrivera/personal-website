@@ -1,9 +1,21 @@
 html {
     background-color: antiquewhite;
 }
-
+h1 {
+    font-weight: 800;
+}
 * {
-    font-family: "Chakra Petch";
+    font-family: "Chakra Petch", sans-serif;
     color: #31304D;
     text-align: center;
+    
 }
+img {
+    width: 20px;
+}
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: antiquewhite;
+    
+  }
