@@ -1,14 +1,17 @@
 html {
-    background-color: antiquewhite;
+    background-color: #ffff;
 }
 h1 {
     font-weight: 800;
 }
 * {
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "inter", sans-serif;
     color: #31304D;
     text-align: center;
-    
+}
+p {
+    color: #6b7280;
+    font-weight: 300;
 }
 img {
     width: 20px;
@@ -18,4 +21,7 @@ footer {
     padding: 5px;
     background-color: antiquewhite;
     
+  }
+  div {
+    padding: 64 64 64 64;
   }
