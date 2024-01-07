@@ -23,5 +23,6 @@ footer {
     
   }
   div {
-    padding: 64 64 64 64;
+    padding: 20px;
+    border: 10px solid black;
   }
