@@ -7,7 +7,7 @@ h1 {
 * {
     font-family: "inter", sans-serif;
     color: #31304D;
-    text-align: center;
+    text-align:left
 }
 p {
     color: #6b7280;
@@ -22,25 +22,29 @@ footer {
     background-color: antiquewhite;
     
   }
+  #overall {
+    padding:20px
+  }
+  
   div {
     padding: 20px;
-    border: 10px solid black;
+    border: 10px solid antiquewhite;
   }
   #first {
     background-color: cadetblue;
     padding: 20px;
-    border: 10px solid black;
+    border: 10px solid antiquewhite;
   }
 
   #second {
     background-color: gold;
-    border: solid black;
-    border-width: 20px 10px;
+    border: solid antiquewhite;
+    border-width: 10px 10px;
     
   }
 
   #third {
     background-color: indianred;
-    border: 10px solid black;
+    border: 10px solid antiquewhite;
     
   }
